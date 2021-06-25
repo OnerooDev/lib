@@ -16,6 +16,7 @@ Run `yarn` to install dependencies.
 
 Run `yarn test` to execute the test suite.
 
+Curren verion here -> (https://www.npmjs.com/package/@sd_uniswap/lib)
 ## Usage
 
 Install this in another project via `yarn add @uniswap/lib`
